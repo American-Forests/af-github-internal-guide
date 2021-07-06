@@ -1,6 +1,6 @@
 # The American Forests Github Guide
 
-A comprehensive guide on how to use and contribute to our organizational github! If you have any questions, please reach out to (rohit)[mailto:rmusti@americanforests.org]
+A comprehensive guide on how to use and contribute to our organizational github! If you have any questions, please reach out to [rohit](mailto:rmusti@americanforests.org)
 
 ## Why Github?
 
@@ -9,7 +9,7 @@ A comprehensive guide on how to use and contribute to our organizational github!
 - it helps create visibility on who is working on which projects 
 
 ## Installing and Configuring Git (windows machines)
-1. Download git from (git-scm.com)[https://git-scm.com/download/win].
+1. Download git from [git-scm.com](https://git-scm.com/download/win).
 2. Run through the standard installation process
 3. Open up the github bash terminal and run `ssh-keygen` to generate your public and private keys. (make sure to name them id_rsa)
 5. Run ``eval `ssh-agent -s` `` followed by `ssh-add /d/Users/<username>/.ssh/id_rsa`
