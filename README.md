@@ -1,6 +1,6 @@
 # The American Forests Github Guide
 
-A comprehensive guide on how to use and contribute to our organizational github! If you have any questions, please reach out to [rohit](mailto:rmusti@americanforests.org)
+A comprehensive guide on how to use and contribute to our organizational github! If you have any questions, please reach out to [rohit](mailto:rmusti@americanforests.org).
 
 ## Why Github?
 
