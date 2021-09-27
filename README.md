@@ -16,7 +16,8 @@ A comprehensive guide on how to use and contribute to our organizational github!
 6. Run `cat /d/Users/<username>/.ssh/id_rsa.pub` and copy the output to your clip board. Then, add this to your github account in settings (NOTE: you might use `/c/` for some machines)
 
 ## Setting up a github repository
-1. Navigate to your desired folder using `cd` and `ls` commands.
+1. Create a repository online through the AF organization on github.
+1. Navigate to your desired folder using `cd` and `ls`/`dir` commands.
 2. Run `git init` to create a git repository for the appropriate folder.
 3. Set up a `.gitignore` file to ignore all of the data/directories you want to 
 4. For each file you want to back up to github, run `git add <relative file path>`.
